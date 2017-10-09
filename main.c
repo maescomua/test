@@ -1,1 +1,1 @@
-bool main(){return true;}
+int main(){return 1;}
